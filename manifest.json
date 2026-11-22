@@ -1,0 +1,10 @@
+{
+	"id": "entry-word-count",
+	"name": "Entry Word Count",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Record each entry's date and word count in the note, and see the writing section's word count in the status bar.",
+	"author": "je25th",
+	"authorUrl": "https://github.com/je25th",
+	"isDesktopOnly": false
+}
